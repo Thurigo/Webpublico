@@ -6,7 +6,7 @@ Bom minha trajetória começou na quinta-feira à noite. Bom, não tenho Java co
 
 Continuei com o desenvolvimento, focado em criar a API no modelo REST, criando as rotas e tudo mais. Entendo o funcionamento das controllers e services que contemplam o código limpo. Acabei utilizando os repositórios e as controllers, porém não utilizei muito os services para realizar as regras das rotas.
 
-Continuando, criei as rotas de GET, DELETE, PUT e POST para as tabelas das entidades de pessoa física e jurídica, que criei separadamente. As rotas foram criadas e testadas utilizando o Insomnia, cujo JSON segue abaixo. Uma parte do desafio era a comunicação 1 para N dos endereços com as tabelas das pessoas físicas e jurídicas. A relação eu consegui criar, porém não consegui fazer um POST com esses dados.
+Continuando, criei as rotas de GET, DELETE, PUT e POST para as tabelas das entidades de pessoa física e jurídica, que criei separadamente. As rotas foram criadas e testadas utilizando o Insomnia, cujo JSON (Webpublico.json) segue abaixo. Uma parte do desafio era a comunicação 1 para N dos endereços com as tabelas das pessoas físicas e jurídicas. A relação eu consegui criar, porém não consegui fazer um POST com esses dados.
 
 Outro ponto do desafio era a importação do arquivo CSV no banco de dados. Essa importação inicial foi feita e verificada. Caso o banco não tenha nenhum dado, ele faz a importação das pessoas físicas disponibilizadas pelo CSV.
 
